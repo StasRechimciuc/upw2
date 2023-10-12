@@ -1,0 +1,74 @@
+@import "./firstPage.scss";
+@import "./navBar.scss";
+@import "./slides.scss";
+@import "./footer.scss";
+
+//FONTS
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Raleway:wght@500&family=Syne:wght@600;700&display=swap");
+
+.w-100{
+  width: 100% !important;
+}
+.bg-0D1A28{
+  background-color: #0D1A28 !important;
+}
+.justify-content-center{
+  justify-content: center !important;
+}
+.mr-4 {
+  margin-right: 4px !important;
+}
+.mt_15 {
+  margin-top: 15px !important;
+}
+.ml_30 {
+  margin-left: 30px !important;
+}
+.mt_26 {
+  margin-top: 26px !important;
+}
+.mt_8 {
+  margin-top: 8px !important;
+}
+.mt_96 {
+  margin-top: 96px !important;
+}
+.w-85 {
+  width: 85% !important;
+}
+.ml_8 {
+  margin-left: 8px !important;
+}
+.mr_8 {
+  margin-right: 8px !important;
+}
+.mr_16 {
+  margin-right: 16px !important;
+}
+.d-flex {
+  display: flex !important;
+}
+.w-255 {
+  width: 255px !important;
+}
+.space-between {
+  justify-content: space-between !important;
+}
+.align-items-center {
+  align-items: center;
+}
+.gap-10{
+  gap: 10px;
+}
+.react-datepicker-wrapper input {
+  display: none !important;
+}
+.react-datepicker__triangle {
+  display: none !important;
+}
+.button-link {
+  cursor: pointer;
+  margin-top: 2px;
+  display: flex;
+  align-items: center;
+}
